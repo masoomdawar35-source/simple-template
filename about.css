@@ -83,7 +83,7 @@
      background-image: url(about-bg.jpg);
      background-image:
          linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-         url("about-bg.jpg");
+         url("about-bg\ \(1\).jpg");
      background-size: cover;
  }
 
@@ -124,7 +124,7 @@
      width: 93%;
      height: 84vh;
      /* border: 2px solid red; */
-     background-image: url(about-us.jpg);
+     background-image: url(about-us\ \(1\).jpg);
      background-repeat: no-repeat;
      background-size: cover;
      border-radius: 10px;
